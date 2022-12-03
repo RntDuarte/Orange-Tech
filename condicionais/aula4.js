@@ -1,7 +1,7 @@
 
 
 
-const IMC = 87 / (1.74 * 1.74);
+const IMC = 75 / (1.74 * 1.74);
 
 console.log(IMC.toFixed(2));
 
